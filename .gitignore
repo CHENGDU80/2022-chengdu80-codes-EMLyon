@@ -13,7 +13,7 @@ docs/build/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+#*.ipynb
 
 # Desktop Services Store
 .DS_Store
